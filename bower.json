@@ -1,0 +1,13 @@
+{
+  "name": "angular-scroll",
+  "version": "0.0.0",
+  "authors": [
+    "Arhan Shahid <arhanshahid@gmail.com>"
+  ],
+  "description": "angular-scroll",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.4.5",
+    "angular-scroll": "~1.0.0"
+  }
+}
